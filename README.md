@@ -1,1 +1,0 @@
-# SQL_Sales_Job_Analysis
